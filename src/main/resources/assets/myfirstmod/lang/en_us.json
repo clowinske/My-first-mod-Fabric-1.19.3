@@ -1,0 +1,21 @@
+{
+  "itemGroup.myfirstmod.sus": "Sus",
+
+  "item.myfirstmod.sussy_amongus": "Sussy Amongus",
+  "item.myfirstmod.crewmate": "Crewmate",
+  "item.myfirstmod.mote": "Mote",
+  "item.myfirstmod.vex_mythoclast": "Vex Mythoclast",
+  "item.myfirstmod.eight_ball": "Eight Ball",
+  "item.myfirstmod.eggplant": "Eggplant",
+  "item.myfirstmod.eggplant_seeds": "Eggplant Seeds",
+
+
+  "block.myfirstmod.eggplant_crop": "Eggplant Crop",
+  "block.myfirstmod.new_redstone": "New Redstone Block",
+  "block.myfirstmod.newer_redstone": "Newer Redstone Block",
+  "block.myfirstmod.lamp": "Lamp",
+
+  "key.category.firstmod": "MyFirstMod",
+  "key.firstmod.drop_items": "Drop Items"
+
+}
